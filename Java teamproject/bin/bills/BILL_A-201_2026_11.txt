@@ -1,0 +1,33 @@
++==============================================================================+
+|            KONGU ENGINEERING COLLEGE (AUTONOMOUS) - PERUNDURAI               |
+|                     HOSTEL UTILITY & MESS FEE STATEMENT                      |
+|                         BILLING CYCLE: 2026-11                               |
++==============================================================================+
+|  Student Name    : Chandru Mohan M                Student ID : 22EC105          |
+|  Room ID         : A-201                          Hostel Block: Block A            |
+|  Category        : SPECIAL AC ROOM                Status     : ACTIVE           |
+|  Base Monthly Fee: ₹9,500.00                      Bill Ref   : #KEC-B0109           |
++------------------------------------------------------------------------------+
+|  FEE COMPONENT BREAKDOWN & WEIGHT ALLOCATION                                 |
++------------------------------------------------------------------------------+
+|  1. Base Mess Fee (Weight: 35%)                                        ₹3,325.00 |
+|     [+] Mess Attendance: Regular (>= 15 Days, No Rebate applied)             |
+|  2. Special Meals & Guest Coupons (Phase 2 Mid-Month)                     ₹1,050.00 |
+|  3. Electricity & Utility Assessment                                       ₹3,920.00 |
+|     - Meter Units Consumed : 115.0  Units (Base Cap: 100.0 Units)               |
+|     - Base Electricity (Weight: 40%) : ₹3,800.00                                |
+|     - Surcharge (15.0 Extra Units @ ₹8.00/unit) : ₹120.00                       |
++------------------------------------------------------------------------------+
+|  SUB-TOTAL (Net Bill Before Penalty)                                      ₹8,295.00 |
+|  PAYMENT STANDING: [CLEARED  ] (Settled on or before 15th - Penalty: ₹0.00)      |
++==============================================================================+
+|  TOTAL INVOICE AMOUNT PAYABLE                                             ₹8,295.00 |
++==============================================================================+
+|  PAYMENT & COMPLIANCE NOTES:                                                 |
+|  1. Invoices paid on or before 15th receive 'CLEARED' standing.              |
+|  2. Grace window is 16th to 20th ('DUE'). Defaulters after 20th incur 10%.   |
+|  3. Special AC units exceeding 100 units billed at fixed rate of Rs 8.00.    |
+|  4. Generated via KEC Multi-Threaded Engine (OCI VM Distributed Architecture)|
+|  System Generated Timestamp: 2026-11-09 20:33:51                             |
++==============================================================================+
+

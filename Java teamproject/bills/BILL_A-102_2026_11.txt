@@ -1,0 +1,35 @@
++==============================================================================+
+|            KONGU ENGINEERING COLLEGE (AUTONOMOUS) - PERUNDURAI               |
+|                     HOSTEL UTILITY & MESS FEE STATEMENT                      |
+|                         BILLING CYCLE: 2026-11                               |
++==============================================================================+
+|  Student Name    : Bavithra Devi R                Student ID : 22CS102          |
+|  Room ID         : A-102                          Hostel Block: Block A            |
+|  Category        : NON-VEG MESS                   Status     : ACTIVE           |
+|  Base Monthly Fee: ₹6,500.00                      Bill Ref   : #KEC-B0104           |
++------------------------------------------------------------------------------+
+|  FEE COMPONENT BREAKDOWN & WEIGHT ALLOCATION                                 |
++------------------------------------------------------------------------------+
+|  1. Base Mess Fee (Weight: 45%)                                        ₹2,925.00 |
+|     [-] Mess Attendance Rebate (Attended < 15 days -> 30%)           -₹877.50 |
+|     [=] Net Mess Payable                                                  ₹2,047.50 |
+|  2. Special Meals & Guest Coupons (Phase 2 Mid-Month)                       ₹700.00 |
+|  3. Electricity & Utility Assessment                                       ₹1,300.00 |
+|     - Meter Units Consumed : 42.0   Units (Base Cap: 50.0  Units)               |
+|     - Base Electricity (Weight: 20%) : ₹1,300.00                                |
+|     - Surcharge: None (Consumption within allocated base cap)                |
++------------------------------------------------------------------------------+
+|  SUB-TOTAL (Net Bill Before Penalty)                                      ₹4,047.50 |
+|  PAYMENT STANDING: [DEFAULTER] (Unpaid after 20th - Late Fine 10%)              |
+|  [+] Late Defaulter Fine (10% applied to Net Bill)                          ₹404.75 |
++==============================================================================+
+|  TOTAL INVOICE AMOUNT PAYABLE                                             ₹4,452.25 |
++==============================================================================+
+|  PAYMENT & COMPLIANCE NOTES:                                                 |
+|  1. Invoices paid on or before 15th receive 'CLEARED' standing.              |
+|  2. Grace window is 16th to 20th ('DUE'). Defaulters after 20th incur 10%.   |
+|  3. Special AC units exceeding 100 units billed at fixed rate of Rs 8.00.    |
+|  4. Generated via KEC Multi-Threaded Engine (OCI VM Distributed Architecture)|
+|  System Generated Timestamp: 2026-11-09 20:33:51                             |
++==============================================================================+
+
